@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=768000,CODECS="mp4a.40.2, avc1.640028",RESOLUTION=634x360
+https://vh-04.vhgetcourse.ru/player/6e5be6f0d83ef6ca68062cc56775b2ad/6faffe5f7c9c0410a7587848b2e8457d/media/360.m3u8?sid=sid&host=vh-33&user-cdn=integros&akamai-cdn-pr=0&v=3:2:1:0
+#EXT-X-STREAM-INF:BANDWIDTH=1024000,CODECS="mp4a.40.2, avc1.640028",RESOLUTION=845x480
+https://vh-04.vhgetcourse.ru/player/6e5be6f0d83ef6ca68062cc56775b2ad/6faffe5f7c9c0410a7587848b2e8457d/media/480.m3u8?sid=sid&host=vh-33&user-cdn=integros&akamai-cdn-pr=0&v=3:2:1:0
+#EXT-X-STREAM-INF:BANDWIDTH=2560000,CODECS="mp4a.40.2, avc1.640028",RESOLUTION=1268x720
+https://vh-04.vhgetcourse.ru/player/6e5be6f0d83ef6ca68062cc56775b2ad/6faffe5f7c9c0410a7587848b2e8457d/media/720.m3u8?sid=sid&host=vh-33&user-cdn=integros&akamai-cdn-pr=0&v=3:2:1:0
+#EXT-X-STREAM-INF:BANDWIDTH=4096000,CODECS="mp4a.40.2, avc1.640028",RESOLUTION=1902x1080
+https://vh-04.vhgetcourse.ru/player/6e5be6f0d83ef6ca68062cc56775b2ad/6faffe5f7c9c0410a7587848b2e8457d/media/1080.m3u8?sid=sid&host=vh-33&user-cdn=integros&akamai-cdn-pr=0&v=3:2:1:0
